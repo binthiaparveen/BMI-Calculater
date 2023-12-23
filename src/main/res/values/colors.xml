@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="black">#FF000000</color>
+        <color name="white">#FFFFFFFF</color>
+
+
+        <color name="under_weight">#754A04</color>                                                                                                                                                                                                    nnnnnnnnnnnnnbmn,,,,,,,,,,,,,,,,,,b,mnb,mnb,mnb,mnbmbbbbbbb,mnbm,nb,mnb,nbm,nbb,mnb         hhhhihuuuuuuiniujnnnnjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjoinjjjjjjjjik0mo hhhhihuuuuuuiniujnnnnjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjoinjjjjjjjjik0mo
+        <color name="normal">#4CAF50</color>
+        <color name="over_weight">#5E3845</color>
+        <color name="obese">#702520</color>
+    </resources>
